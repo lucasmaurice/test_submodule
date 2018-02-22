@@ -1,0 +1,9 @@
+[submodule "wm_color_detector"]
+	path = wm_color_detector
+	url = git@github.com:WalkingMachine/wm_color_detector.git
+[submodule "wm_data_collector"]
+	path = wm_data_collector
+	url = git@github.com:WalkingMachine/wm_data_collector.git
+[submodule "wm_frame_to_box"]
+	path = wm_frame_to_box
+	url = git@github.com:WalkingMachine/wm_frame_to_box.git
