@@ -7,6 +7,3 @@
 [submodule "wm_frame_to_box"]
 	path = wm_frame_to_box
 	url = git@github.com:WalkingMachine/wm_frame_to_box.git
-[submodule "darknet_ros"]
-	path = darknet_ros
-	url = git@github.com:WalkingMachine/darknet_ros.git
